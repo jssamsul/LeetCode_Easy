@@ -43,7 +43,7 @@ class Solution{
             return true;
     }
 }
-public class LeetCode {
+public class ValidParentheses {
 
     /**
      * @param args the command line arguments
